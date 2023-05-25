@@ -4,13 +4,12 @@ Off-chain interaction with a MYSQL server for Carbon Credits
 
 > Learn more about the project at: https://github.com/hrushikesh-choudhary/carbon-credits-contract/blob/master/README.md
 
-### Tech Used:
+Tech Used:
 1. FastAPI
 2. SQLAlchemy
 3. Pydantic
 4. MySQL
 5. Swagger
-
 
 ### Steps to run the FastAPI server locally:
 1. Clone the repository
