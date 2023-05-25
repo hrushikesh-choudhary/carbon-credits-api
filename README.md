@@ -1,7 +1,17 @@
 # carbon-credits-api
+This repository represents the logic for the Off-chain interaction with a MYSQL server.
 
-Steps to run the FastAPI server locally:
+Learn more about the project at: https://github.com/hrushikesh-choudhary/carbon-credits-contract/blob/master/README.md
 
+### Tech Used:
+1. FastAPI
+2. SQLAlchemy
+3. Pydantic
+4. MySQL
+5. Swagger
+
+
+### Steps to run the FastAPI server locally:
 1. Clone the repository
 2. `pip3 install -r requirements.txt`
 3. Create a database named `CarbonCreditsDB` in your local MySQL service
