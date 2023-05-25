@@ -7,9 +7,8 @@ Off-chain interaction with a MYSQL server for Carbon Credits
 Tech Used:
 1. FastAPI
 2. SQLAlchemy
-3. Pydantic
-4. MySQL
-5. Swagger
+3. MySQL
+4. Swagger
 
 ### Steps to run the FastAPI server locally:
 1. Clone the repository
